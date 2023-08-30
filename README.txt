@@ -1,0 +1,1 @@
+https://www.figma.com/file/Yv4QQuDtjK1ApYMgsLzBgE/Sign-up-form-(Community)?type=design&node-id=0-1&mode=design&t=pON2yh8AzA0ZQgDi-0
