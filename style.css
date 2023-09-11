@@ -33,7 +33,38 @@ main{
     align-items: center;
     flex-direction: column;
     background: white;
+}
 
+.left h1{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #C4C4C4;
+}
+
+a{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #476D73;
+}
+
+.btn-login{
+    width: 400px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #284A5E;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
 }
 
 .right{
